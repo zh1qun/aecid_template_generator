@@ -17,6 +17,6 @@ cp configs/template_config_messages.py template_config.py
 ```
 and then execute the main script as before.
 
-More information on the aecid-template-generator is provided in the following paper (in particular, Sect. 4.4 Equalmerge algorithm):
+More information on the aecid-template-generator is provided in the following paper :
 
 Creating Character-based Templates for Log Data to Enable Security Event Classification
