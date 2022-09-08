@@ -1,0 +1,14 @@
+1j¡ì-000¡ì-¡ì <= ¡ì@mail.¡ì.com U=www-data P=local S=¡ì id=20200¡ì.Horde.¡ì@mail.¡ì.com
+1j¡ì-000¡ì-¡ì => ¡ì <¡ì@mail.¡ì.com> R=local_user T=mail_spool
+1j¡ì-000¡ì-¡ì Completed
+¡ì queue run: pid=¡ì
+1j¡ì-000¡ì-¡ì <= root@mail¡ì.¡ìo¡ì U=root P=local S=¡ì
+1j¡ì-000¡ì-¡ì => /var/mail/mail <root@mail¡ì.¡ìo¡ì> R=mail4root T=address_file
+
+
+Total time: 0.679057s
+
+Overall scores:
+Sim-Score: 65.19547%
+Euclidean-Score: 42.89208%
+Template stable after processing 38.84656%
